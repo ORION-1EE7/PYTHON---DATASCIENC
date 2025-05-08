@@ -6,7 +6,7 @@
 - A **list** is an **ordered collection** of items that can store elements of different types (though typically the same type is used).
 - Unlike C arrays, Python lists can **grow or shrink dynamically**, and indexing starts at `0`.
 
-### SYNTAX
+### SYNTAX:
 
 ```python
 # Create a list with fixed elements
