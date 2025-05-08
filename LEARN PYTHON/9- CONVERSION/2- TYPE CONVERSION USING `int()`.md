@@ -1,17 +1,15 @@
-# 2
-
-## TYPE CONVERSION USING `int()`
+# 2- TYPE CONVERSION USING `int()`
 
 - **Definition**: Refers to the conversion of an object of one type to the integer type via the programmer's intervention.
 - **Syntax**:
-    
-    ```python
-    int(value, base)
-    
-    ```
-    
-    - `value`: The object you want to convert.
-    - `base`: (Optional) The base of the number system (e.g., binary, octal, decimal, hexadecimal).
+
+  ```python
+  int(value, base)
+
+  ```
+
+  - `value`: The object you want to convert.
+  - `base`: (Optional) The base of the number system (e.g., binary, octal, decimal, hexadecimal).
 
 ### Code Example:
 

@@ -1,6 +1,6 @@
 # 1- DATA TYPES IN PYTHON
 
-**I - BIT / BYTE**
+**I - BIT / BYTE:**
 
 1. **BIT**: The smallest unit of data in a computer. It can be 0 or 1.
 2. **BYTE**: A group of 8 bits.

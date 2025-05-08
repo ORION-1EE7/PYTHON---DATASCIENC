@@ -1,6 +1,6 @@
 # 1- ARITHMETIC OPERATORS
 
-**OPERATORS:** An operator is a symbol that performs an operation on one or more operands. An operand is a variable or a value on which we perform the operation.
+**OPERATORS:** An operator is a symbol that performs an operation on one or more operands. An operand is a variable or a value on which we perform the operation:
 
 - `[ + ]` Addition
 - `[ - ]` Subtraction

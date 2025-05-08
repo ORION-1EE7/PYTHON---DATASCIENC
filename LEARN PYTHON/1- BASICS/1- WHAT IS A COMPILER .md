@@ -10,17 +10,17 @@ This process is called **compilation** — and it happens in several steps.
 # I- STEPS OF COMPILATION
 
 1. PREPROCESSING
-    - Handles lines that start with #, like #include or #define
-    - It includes necessary files and prepares the code before actual compilation.
+   - Handles lines that start with #, like #include or #define
+   - It includes necessary files and prepares the code before actual compilation.
 2. COMPILING
-    - Translates the preprocessed code into assembly language (a low-level language).
-    - Checks for syntax errors (missing semicolons, typos, etc.)
+   - Translates the preprocessed code into assembly language (a low-level language).
+   - Checks for syntax errors (missing semicolons, typos, etc.)
 3. ASSEMBLING
-    - Converts the assembly code into machine code (binary instructions).
-    - Creates an object file (.o or .obj)
+   - Converts the assembly code into machine code (binary instructions).
+   - Creates an object file (.o or .obj)
 4. LINKING
-    - Combines your object file with other necessary code (like libraries).
-    - Produces the final executable program.
+   - Combines your object file with other necessary code (like libraries).
+   - Produces the final executable program................
 
 ```c
 TEXT DIAGRAM

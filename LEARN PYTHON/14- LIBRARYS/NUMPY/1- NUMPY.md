@@ -1,10 +1,9 @@
 # 1- NUMPY
 
 - NumPy (**Numerical Python**) is a powerful Python library used for **working with arrays**.
-
 - It allows for fast operations on large datasets, especially numeric data, using **multidimensional arrays**.
 
-### **INITIALIZATION**
+### **INITIALIZATION:**
 
 To use NumPy, you need to import it first. It's conventionally imported as `np`.
 

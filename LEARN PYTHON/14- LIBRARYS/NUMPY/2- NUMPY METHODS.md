@@ -1,6 +1,6 @@
 # 2- NUMPY METHODS
 
-### ARRAY CREATION
+### ARRAY CREATION:
 
 You can create NumPy arrays using methods like np.array(), np.zeros(), np.ones(), np.arange(), and np.linspace().
 

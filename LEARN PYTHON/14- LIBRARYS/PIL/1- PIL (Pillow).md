@@ -1,11 +1,10 @@
 # 1- PIL (Pillow)
 
 - Pillow is the **Python Imaging Library**, commonly referred to as PIL.
-
 - It is used for **opening, editing, and saving image files** in many formats (JPEG, PNG, BMP, GIF, etc.).
 - Useful for tasks like **resizing, cropping, rotating, converting color modes**, and more.
 
-### **INITIALIZATION**
+### **INITIALIZATION:**
 
 To use Pillow, you must install it (if not already) and import it. The main class for image handling is called Image.
 

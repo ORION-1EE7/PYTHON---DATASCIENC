@@ -1,6 +1,6 @@
 # 1- INTRODUCTION TO LOOPS
 
-### WHAT IS A LOOP?
+### WHAT IS A LOOP?:
 
 A loop is a control structure that allows you to repeat a block of code multiple times as long as a condition is true. This helps avoid writing the same code again and again.
 

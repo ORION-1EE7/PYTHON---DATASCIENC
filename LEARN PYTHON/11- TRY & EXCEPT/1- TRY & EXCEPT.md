@@ -1,6 +1,6 @@
 # 1- TRY & EXCEPT
 
-### **I- TRY & EXCEPT**
+### **I- TRY & EXCEPT:**
 
 - Used for **error handling**.
 - The code in the `try` block is executed first.

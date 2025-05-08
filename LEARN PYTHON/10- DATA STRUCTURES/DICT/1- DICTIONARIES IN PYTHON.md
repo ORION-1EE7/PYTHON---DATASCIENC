@@ -1,6 +1,6 @@
 # 1- DICTIONARIES IN PYTHON
 
-### 1. **Definition**
+### 1. **Definition:**
 
 - **Dictionaries** are **unordered collections** of **key-value pairs**. Each key is **unique**. Dictionaries are **mutable**.
 

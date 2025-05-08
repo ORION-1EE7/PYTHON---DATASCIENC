@@ -1,7 +1,7 @@
 # 1- VARIABLES IN PYTHON
 
 A variable is a name attached to a value which can be changed and is used later in a code.
-You need a declaration, for example:
+You need a declaration, for example.
 
 - `x = 0`
 - `name = "mohamed"`

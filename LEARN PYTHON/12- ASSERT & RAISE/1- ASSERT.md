@@ -1,4 +1,4 @@
-# 1- ASSERT
+# 1- ASSERT:
 
 - `assert` is used to **test assumptions**.
 - It raises an `AssertionError` if the condition is `False`.

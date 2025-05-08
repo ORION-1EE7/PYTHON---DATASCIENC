@@ -1,13 +1,11 @@
-# 1
-
-## ARGUMENTS TO MAIN
+# 1- ARGUMENTS TO MAIN
 
 ### I - INTRODUCTION
 
 1. **MAIN()** can take arguments, just like any other function.
 2. The arguments to **MAIN()** are:
-    - **ARGC**: An integer that represents the number of arguments on the command line.
-    - **ARGV**: An array of strings that contain the arguments.
+   - **ARGC**: An integer that represents the number of arguments on the command line.
+   - **ARGV**: An array of strings that contain the arguments.
 3. The prototype for **MAIN()** is:
 
 ### II - SYNTAX

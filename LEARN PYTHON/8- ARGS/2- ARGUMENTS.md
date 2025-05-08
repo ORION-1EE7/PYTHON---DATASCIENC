@@ -1,6 +1,4 @@
-# 2
-
-## ARGUMENTS
+# 2- ARGUMENTS
 
 ### PRINT PARAMS
 

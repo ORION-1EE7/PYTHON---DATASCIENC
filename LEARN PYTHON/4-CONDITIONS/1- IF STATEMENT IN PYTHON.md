@@ -1,6 +1,6 @@
 # 1- IF STATEMENT in Python
 
-### Example 1: Basic `if` statement
+### Example 1: Basic `if` statement:
 
 ```python
 x = 10

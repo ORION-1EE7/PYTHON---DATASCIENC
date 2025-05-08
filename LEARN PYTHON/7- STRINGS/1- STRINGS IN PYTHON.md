@@ -15,7 +15,7 @@ greeting = 'Hello'
 
 - If single quotes are used inside the string, then the string should be enclosed within double quotes, and vice versa.
 
-### Valid Example:
+### Valid Example
 
 ```python
 statement1 = "The language 'Python' is named after Monty Python."
